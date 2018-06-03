@@ -1,4 +1,4 @@
-function login(){
+function product(){
 
     console.log('Sign up');
     

@@ -1,5 +1,5 @@
 function registration(){
 
-console.log;
+console.log('Sign up');
 
 }

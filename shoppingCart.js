@@ -1,4 +1,4 @@
-function login(){
+function shoppingCart(){
 
     console.log('Sign up');
     
